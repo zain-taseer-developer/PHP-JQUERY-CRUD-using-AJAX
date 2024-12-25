@@ -1,0 +1,30 @@
+.model {
+  width: 60vw;
+  height: 50vh;
+  background-color: cadetblue;
+  border-radius: 5px;
+  border: 1px solid black;
+  position: fixed;
+  top: 10px;
+
+  left: 20%;
+}
+
+.CloseBtn {
+  text-align: end;
+  margin-right: 20px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.update-btn {
+  color: red;
+}
+
+/* .model {
+
+  /* display: none; */
+
+/* .updatedResponse {
+  margin-top: 40px;
+} */
